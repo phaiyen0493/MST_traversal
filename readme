@@ -1,0 +1,8 @@
+Name: Yen Pham
+CS 3110
+Assignment 4
+
+1. Save the files in a seperate folder before running
+2. Compile the program: g++ Assignment4.cpp
+3. Run the program: ./a.out
+Output is displayed in file output4.txt
